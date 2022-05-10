@@ -1,6 +1,6 @@
 <!-- coverpage.md -->
 
-<img src="https://dongkcs.github.io/docsify/media/Logo.png" alt="logo" style="zoom: 50%;" />
+<img src="https://dongkcs.github.io/docsify/docs/media/Logo.png" alt="logo" style="zoom: 50%;" />
 
 <br>
 
