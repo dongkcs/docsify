@@ -490,22 +490,22 @@ body {
 }
 
 /*i标签，a标签，按钮，头部的导航栏，网址卡片，页脚链接*/
-i:hover,
-a:hover,
-button:hover,
-#nav .site-page:hover,
-.xe-widget.xe-conversations.box2.label-info {
-  cursor: url(https://npm.elemecdn.com/hassan-assets/img/cursor_puppy.png),
-    pointer !important;
-}
+/*i:hover,*/
+/*a:hover,*/
+/*button:hover,*/
+/*#nav .site-page:hover,*/
+/*.xe-widget.xe-conversations.box2.label-info {*/
+/*  cursor: url(https://npm.elemecdn.com/hassan-assets/img/cursor_puppy.png),*/
+/*    pointer !important;*/
+/*}*/
 
 /*页脚a标签，分页器，搜索框*/
-#footer-wrap a:hover,
-#pagination .page-number:hover,
-input#txt {
-  cursor: url(https://npm.elemecdn.com/hassan-assets/img/cursor_stitch.png),
-    pointer !important;
-}
+/*#footer-wrap a:hover,*/
+/*#pagination .page-number:hover,*/
+/*input#txt {*/
+/*  cursor: url(https://npm.elemecdn.com/hassan-assets/img/cursor_stitch.png),*/
+/*    pointer !important;*/
+/*}*/
 /* 鼠标图标 -----------------------------------------------------------------------结束 */
 
 /* 移动端 -------------------------------------- 开始 */
