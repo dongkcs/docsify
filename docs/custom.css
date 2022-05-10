@@ -485,9 +485,9 @@ div iframe {
 }
 
 /* 鼠标图标 -----------------------------------------------------------------------开始 */
-body {
-  cursor: url(https://npm.elemecdn.com/hassan-assets/img/cursor.png), default !important;
-}
+/*body {*/
+/*  cursor: url(https://npm.elemecdn.com/hassan-assets/img/cursor.png), default !important;*/
+/*}*/
 
 /*i标签，a标签，按钮，头部的导航栏，网址卡片，页脚链接*/
 /*i:hover,*/
