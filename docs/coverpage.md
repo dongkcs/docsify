@@ -1,10 +1,10 @@
 <!-- coverpage.md -->
 
-<img src="/media/Logo.png" alt="logo" style="zoom: 50%;" />
+<img src="/docsify/media/Logo.png" alt="logo" style="zoom: 50%;" />
 
 <br>
 
-# 诗 颂 的 文 档
+# dongkcs 的 文 档
 
 ## docsify <small>**4.12.1**</small>
 
