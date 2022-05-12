@@ -4,7 +4,7 @@
 
 <br>
 
-# dongkcs 的 文 档
+# dongkcs的文档
 
 ## docsify <small>**4.12.1**</small>
 
