@@ -197,7 +197,7 @@ h6:before {
   color: #bfe4fb;
 }
 h1.app-name::before,
-h1#诗-颂-的-正常-档::before,
+h1#dongkcs 的 文 档::before,
 h2#docsify-4121:before {
   content: "";
   margin: 0;
