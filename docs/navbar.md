@@ -1,5 +1,5 @@
 - [📃 文档首页](/README)
 - [🍁 我的博客](https://dongkcs.gitee.io/)
-- [🚀 网址导航](https://navi.hassanwong.top1)
-- [✉ 留言信枫](https://hassanwong.top/comments1)
-- [🦄 项目源码](https://github.com/hassanblog/docsify1/)
+- [🚀 网址导航](https://blog.zhheo.com/tlink/)
+- [✉ 留言信枫](https://dongkcs.gitee.io/comments)
+- [🦄 项目源码](https://github.com/dongkcs/docsify)
